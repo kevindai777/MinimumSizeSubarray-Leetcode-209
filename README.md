@@ -3,6 +3,6 @@
 Leetcode Question 209 (Medium)
 
 Techniques Used in Question:
-Two-Pointers
+Sliding-Window
 
 [Link to Question](https://leetcode.com/problems/minimum-size-subarray-sum/)
